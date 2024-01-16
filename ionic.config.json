@@ -1,0 +1,7 @@
+{
+  "name": "TestAxpe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
